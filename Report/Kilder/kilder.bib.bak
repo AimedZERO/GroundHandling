@@ -1,6 +1,16 @@
 % This file was created with JabRef 2.9.2.
 % Encoding: Cp1252
 
+@ELECTRONIC{cargo_lufthavn,
+  author = {Aalborg Airport staff},
+  title = {Cargo - Lufthavn},
+  language = {Danish},
+  organization = {Aalborg Airport},
+  note = {Besøgt Februar 2014},
+  url = {http://www.aal.dk/b2b/cargo-fragt/#.Uw8DQvl5O0J},
+  comment = {https://jetpak.com/dk/}
+}
+
 @ELECTRONIC{north_flying,
   author = {Aalborg Airport staff},
   title = {North Flying - Skandinaviens største},
@@ -232,19 +242,13 @@
   url = {http://www.techrepublic.com/article/poor-planning-is-project-management-mistake-number-one/#.}
 }
 
-@MISC{cargo_lufthavn,
-  title = {Cargo - Lufthavn},
-  note = {Besøgt Februar 2014},
-  url = {http://www.aal.dk/b2b/cargo-fragt/#.Uw8DQvl5O0J}
-}
-
 @MISC{control_stress_work,
   title = {Controlling Stress at Work},
   note = {Besøgt Februar 2014},
   url = {http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=494769}
 }
 
-@MISC{iaopa_fuelprices,
+@ELECTRONIC{iaopa_fuelprices,
   title = {Fuelprice overview},
   note = {Besøgt Februar 2014},
   url = {http://www.iaopa.eu/AOPAFuelPriceServlet}
