@@ -53,15 +53,6 @@
   timestamp = {2014.02.26}
 }
 
-@BOOK{Airportdesignandoperation,
-  title = {Airport design and operation, Chapter 9},
-  publisher = {Elsevier},
-  year = {2007},
-  author = {Antonín Kazda, Robert E. Caves},
-  address = {Linacre House, Jordan Hill, Oxford OX2 8DP, U.K},
-  edition = {Second Edition}
-}
-
 @STANDARD{Bossenbroek2010,
   title = {AIRCRAFT GROUND HANDLING AND HUMAN FACTORS},
   organization = {Directorate General of Civil Aviation of the Netherlands/ European
@@ -109,17 +100,6 @@
   timestamp = {2014.03.18}
 }
 
-@ELECTRONIC{Emegency_ICAO,
-  author = {Secretary General of ICAO},
-  year = {1991},
-  title = {Airport Services Manual},
-  language = {English},
-  organization = {International Civilaviation Organization},
-  url = {https://www.google.dk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0CDoQFjAB&url=http%3A%2F%2Fwww.bazl.admin.ch%2Fdokumentation%2Fgrundlagen%2F02643%2F02644%2Findex.html%3Fdownload%3DNHzLpZeg7t%2Clnp6I0NTU042l2Z6ln1acy4Zn4Z2qZpnO2Yuq2Z6gpJCDe318fmym162epYbg2c_JjKbNoKSn6A--%26lang%3Dde&ei=7NAlU83LAavp4gTmgIHQCA&usg=AFQjCNGfYheDP0gDi1SkxRdNNeSN9xQprA&sig2=ehWt0K40mB0h5sNNnfl-hw},
-  owner = {AndersBaerbar},
-  timestamp = {2014.03.16}
-}
-
 @ELECTRONIC{cate_pilotfood1,
   author = {Jesse},
   month = {JANUARY},
@@ -133,19 +113,6 @@
 }
 
 @ELECTRONIC{Algo_lobe,
-  author = {Marlyn E. Kyle and Mithra M. K. V. Sankrithi},
-  month = {November},
-  year = {2000},
-  title = {Aircraft lower lobe sleeping compartment},
-  language = {English and Danish},
-  organization = {The Boeing Company},
-  note = {US6152400 A},
-  url = {https://www.google.com/patents/US6152400},
-  owner = {AndersB?rbar},
-  timestamp = {2014.02.24}
-}
-
-@ELECTRONIC{Kyle2000,
   author = {Marlyn E. Kyle and Mithra M. K. V. Sankrithi},
   month = {November},
   year = {2000},
@@ -189,65 +156,5 @@
   owner = {AndersBærbar},
   timestamp = {2014.02.25},
   url = {http://books.google.dk/books?id=MF6x6G_i9BkC&pg=PA501&lpg=PA501&dq=Flight+Catering+In+Handbook+of+Hospitality+Research&source=bl&ots=id0-lmMyqj&sig=vgYIdZ3fgT_YLOdZE6lSJbmwM9M&hl=da&sa=X&ei=kmYMU4vGKYrK0QXX2YCQDQ&ved=0CC4Q6AEwAA#v=onepage&q&f=false}
-}
-
-@MISC{737_specs,
-  title = {737-800 Technical Characteristics},
-  note = {Besøgt Februar 2014},
-  url = {http://www.boeing.com/boeing/commercial/737family/pf/pf_800tech.page}
-}
-
-@MISC{AvoidP_TenStep,
-  title = {Poor planning is project management mistake number one},
-  note = {Besøgt Februar 2014},
-  url = {http://www.techrepublic.com/article/poor-planning-is-project-management-mistake-number-one/#.}
-}
-
-@MISC{cargo_lufthavn,
-  title = {Cargo - Lufthavn},
-  note = {Besøgt Februar 2014},
-  url = {http://www.aal.dk/b2b/cargo-fragt/#.Uw8DQvl5O0J}
-}
-
-@MISC{cnet_boeing_app,
-  title = {Boeing launches airplane maintenance iPad apps},
-  note = {Besøgt Februar 2014},
-  url = {http://news.cnet.com/8301-10797_3-57604308-235/boeing-launches-airplane-maintenance-ipad-apps/}
-}
-
-@MISC{control_stress_work,
-  title = {Controlling Stress at Work},
-  note = {Besøgt Februar 2014},
-  url = {http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=494769}
-}
-
-@MISC{iaopa_fuelprices,
-  title = {Fuelprice overview},
-  note = {Besøgt Februar 2014},
-  url = {http://www.iaopa.eu/AOPAFuelPriceServlet}
-}
-
-@MISC{mistet_bagage,
-  title = {Mistet Bagage},
-  note = {Besøgt Februar 2014},
-  url = {http://www.cph.dk/kundeservice/mistet-bagage/}
-}
-
-@MISC{north_flying,
-  title = {North Flying - Skandinaviens største},
-  note = {Besøgt Februar 2014},
-  url = {http://www.aal.dk/b2b/north-flying/#.Uw8Cu_l5O0J}
-}
-
-@MISC{sas_tech_mechanic,
-  title = {Flymekanikerlærling},
-  note = {Besøgt Februar 2014},
-  url = {http://www.saselev.dk/flymekanikerelev/}
-}
-
-@STANDARD{NLR_human_factors,
-  title = {NLR - Aircraft Ground Handling and Human Factors},
-  year = {2010},
-  url = {https://easa.europa.eu/essi/ecast/wp-content/uploads/2011/08/Aircraft-Ground-Handling-and-Human-Factors-NLR-final-report.pdf}
 }
 
