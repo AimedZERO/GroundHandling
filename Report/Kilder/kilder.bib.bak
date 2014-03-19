@@ -109,6 +109,14 @@
   timestamp = {2014.03.18}
 }
 
+@ELECTRONIC{sas_tech_mechanic,
+  author = {Kent Bille Hansen},
+  title = {Flymekanikerlærling},
+  language = {Dansih},
+  organization = {SAS},
+  note = {Besøgt Februar 2014}
+}
+
 @ELECTRONIC{Emegency_ICAO,
   author = {Secretary General of ICAO},
   year = {1991},
@@ -209,7 +217,7 @@
   url = {http://www.aal.dk/b2b/cargo-fragt/#.Uw8DQvl5O0J}
 }
 
-@MISC{cnet_boeing_app,
+@ELECTRONIC{cnet_boeing_app,
   title = {Boeing launches airplane maintenance iPad apps},
   note = {Besøgt Februar 2014},
   url = {http://news.cnet.com/8301-10797_3-57604308-235/boeing-launches-airplane-maintenance-ipad-apps/}
@@ -237,12 +245,6 @@
   title = {North Flying - Skandinaviens største},
   note = {Besøgt Februar 2014},
   url = {http://www.aal.dk/b2b/north-flying/#.Uw8Cu_l5O0J}
-}
-
-@ELECTRONIC{sas_tech_mechanic,
-  title = {Flymekanikerlærling},
-  note = {Besøgt Februar 2014},
-  url = {http://www.saselev.dk/flymekanikerelev/}
 }
 
 @STANDARD{NLR_human_factors,
