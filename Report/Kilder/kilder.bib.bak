@@ -43,7 +43,7 @@
   timestamp = {2014.02.25}
 }
 
-@ELECTRONIC{AvoidP_TenStep,
+@ELECTRONIC{AvoidP_TenStep2,
   author = {TenStep staff},
   title = {Contact TenStep},
   language = {English},
@@ -65,7 +65,7 @@
 @STANDARD{Bossenbroek2010,
   title = {AIRCRAFT GROUND HANDLING AND HUMAN FACTORS},
   organization = {Directorate General of Civil Aviation of the Netherlands/ European
-  Commercial Aviation Safety Team},
+	Commercial Aviation Safety Team},
   institution = {NLR Air Transport Safety Institute},
   author = {A.D. Balk J.W. Bossenbroek},
   month = {April},
@@ -90,9 +90,9 @@
   title = {Self-determination theory and work motivation},
   organization = {Wiley InterScience},
   institution = {Department of Management, John Molson School of Business, Concordia
-  University, Montreal, Quebec, Canada Department of Clinical and Social
-  Sciences in Psychology, University of Rochester, Rochester, New York,
-  U.S.A.},
+	University, Montreal, Quebec, Canada Department of Clinical and Social
+	Sciences in Psychology, University of Rochester, Rochester, New York,
+	U.S.A.},
   author = {MARYLE'NE GAGNE' AND EDWARD L. DECI},
   year = {2005},
   owner = {heider},
@@ -179,13 +179,13 @@
   pages = {576},
   note = {Faculty of Business, Economics and Law},
   abstract = {At last, a comprehensive, systematically organized Handbook which
-  gives a reliable and critical guide to all aspects of one of the
-  world's leading industries: the hospitality industry. The book focuses
-  on key aspects of the hospitality management curriculum, research
-  and practice bringing together leading scholars throughout the world.
-  Each essay examines a theme or functional aspect of hospitality management
-  and offers a critical overview of the principle ideas and issues
-  that have contributed, and continue to contribute, within i},
+	gives a reliable and critical guide to all aspects of one of the
+	world's leading industries: the hospitality industry. The book focuses
+	on key aspects of the hospitality management curriculum, research
+	and practice bringing together leading scholars throughout the world.
+	Each essay examines a theme or functional aspect of hospitality management
+	and offers a critical overview of the principle ideas and issues
+	that have contributed, and continue to contribute, within i},
   owner = {AndersBærbar},
   timestamp = {2014.02.25},
   url = {http://books.google.dk/books?id=MF6x6G_i9BkC&pg=PA501&lpg=PA501&dq=Flight+Catering+In+Handbook+of+Hospitality+Research&source=bl&ots=id0-lmMyqj&sig=vgYIdZ3fgT_YLOdZE6lSJbmwM9M&hl=da&sa=X&ei=kmYMU4vGKYrK0QXX2YCQDQ&ved=0CC4Q6AEwAA#v=onepage&q&f=false}
@@ -239,7 +239,7 @@
   url = {http://www.aal.dk/b2b/north-flying/#.Uw8Cu_l5O0J}
 }
 
-@MISC{sas_tech_mechanic,
+@ELECTRONIC{sas_tech_mechanic,
   title = {Flymekanikerlærling},
   note = {Besøgt Februar 2014},
   url = {http://www.saselev.dk/flymekanikerelev/}
