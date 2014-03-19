@@ -1,6 +1,16 @@
 % This file was created with JabRef 2.9.2.
 % Encoding: Cp1252
 
+@ELECTRONIC{north_flying,
+  author = {Aalborg Airport staff},
+  title = {North Flying - Skandinaviens største},
+  language = {Danish},
+  organization = {Aalborg Airport},
+  note = {Besøgt Februar 2014},
+  url = {http://www.aal.dk/b2b/north-flying/#.Uymg2Pl5MWK},
+  comment = {www.northflying.com}
+}
+
 @ELECTRONIC{freight_boing,
   author = {Boeing staff},
   title = {Three-Class Seating Long-Range Rules},
@@ -178,6 +188,17 @@
   timestamp = {2014.02.26}
 }
 
+@ELECTRONIC{cnet_boeing_app,
+  author = {Daniel Terdiman},
+  month = {September},
+  year = {2013},
+  title = {Boeing launches airplane maintenance iPad apps},
+  language = {English},
+  organization = {Cnet},
+  note = {Besøgt Februar 2014},
+  url = {http://news.cnet.com/8301-10797_3-57604308-235/boeing-launches-airplane-maintenance-ipad-apps/}
+}
+
 @BOOK{cate_BookSection,
   title = {The SAGE Handbook of Hospitality Managemen},
   publisher = {SAGE Publications Ltd},
@@ -217,12 +238,6 @@
   url = {http://www.aal.dk/b2b/cargo-fragt/#.Uw8DQvl5O0J}
 }
 
-@ELECTRONIC{cnet_boeing_app,
-  title = {Boeing launches airplane maintenance iPad apps},
-  note = {Besøgt Februar 2014},
-  url = {http://news.cnet.com/8301-10797_3-57604308-235/boeing-launches-airplane-maintenance-ipad-apps/}
-}
-
 @MISC{control_stress_work,
   title = {Controlling Stress at Work},
   note = {Besøgt Februar 2014},
@@ -239,12 +254,6 @@
   title = {Mistet Bagage},
   note = {Besøgt Februar 2014},
   url = {http://www.cph.dk/kundeservice/mistet-bagage/}
-}
-
-@MISC{north_flying,
-  title = {North Flying - Skandinaviens største},
-  note = {Besøgt Februar 2014},
-  url = {http://www.aal.dk/b2b/north-flying/#.Uw8Cu_l5O0J}
 }
 
 @STANDARD{NLR_human_factors,
