@@ -40,6 +40,15 @@
   timestamp = {2014.02.28}
 }
 
+@ELECTRONIC{mistet_bagage,
+  author = {Copenhagen Airport staff},
+  title = {Mistet Bagage},
+  language = {Danish},
+  organization = {Copenhagen Airport},
+  note = {Besøgt Februar 2014},
+  url = {http://www.cph.dk/kundeservice/mistet-bagage/}
+}
+
 @ELECTRONIC{iaopa_fuelprices,
   author = {Fuelprice overview},
   month = {aug},
@@ -257,16 +266,10 @@
   url = {http://www.techrepublic.com/article/poor-planning-is-project-management-mistake-number-one/#.}
 }
 
-@MISC{control_stress_work,
+@ELECTRONIC{control_stress_work,
   title = {Controlling Stress at Work},
   note = {Besøgt Februar 2014},
   url = {http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=494769}
-}
-
-@ELECTRONIC{mistet_bagage,
-  title = {Mistet Bagage},
-  note = {Besøgt Februar 2014},
-  url = {http://www.cph.dk/kundeservice/mistet-bagage/}
 }
 
 @STANDARD{NLR_human_factors,
